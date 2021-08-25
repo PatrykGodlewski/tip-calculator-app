@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX/hub/frontend-mentor-tip-calculator-app-solution--TlF7dElO
+- Live Site URL: https://patrykgodlewski.github.io/tip-calculator-app/
 
 ### Built with
 
@@ -41,10 +41,7 @@ Users should be able to:
 
 Im pretty happy from everything i did here, most of the code is sloppy but i learned so much after long break from coding.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Linkedin - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@PatrykGodlewski](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX/hub/frontend-mentor-tip-calculator-app-solution--TlF7dElO)
+- Linkedin - [Patryk_Godlewski](https://www.linkedin.com/in/patrykgodlewski/)
